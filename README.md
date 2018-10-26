@@ -4,7 +4,7 @@ This repo has been inspired by these:
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 - [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers).
-- [https://github.com/estraviz/data-science-roadmap]
+- [Estraviz](https://github.com/estraviz/data-science-roadmap)
 
 ### Why this?
 
@@ -284,7 +284,7 @@ This is a selection of books for Data Science and related disciplines from which
 | ◻️  | [R in Action (2nd ed.)](https://www.manning.com/books/r-in-action-second-edition)                                                                              | Robert I. Kabacoff                                             | Manning             | May&nbsp;2015           | [GitHub](https://github.com/kabacoff/RiA2)                                                                                                                                                                                                                                                      |
 | ◻️  | [Data Science from Scratch](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/)                                                   | Joel Grus                                                      | O'Reilly            | Apr&nbsp;2015           | [GitHub](https://github.com/joelgrus/data-science-from-scratch)                                                                                                                                                                                                                                 |
 | ◻️  | [Data Science at the Command Line](https://www.safaribooksonline.com/library/view/data-science-at/9781491947845/)                                              | Jeroen Janssens                                                | O'Reilly            | Oct&nbsp;2014           | [GitHub](https://github.com/jeroenjanssens/data-science-at-the-command-line)                                                                                                                                                                                                                    |
-| ✔️  | [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python) | Raúl Garreta, Guillermo Moncecchi                              | Packt               | Nov&nbsp;2013           | [GitHub](https://github.com/gmonce/scikit-learn-book)                                                                                                                                                                                                                                           |
+| ◻️  | [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python) | Raúl Garreta, Guillermo Moncecchi                              | Packt               | Nov&nbsp;2013           | [GitHub](https://github.com/gmonce/scikit-learn-book)                                                                                                                                                                                                                                           |
 
 _(\*) Expected publication date_
 
