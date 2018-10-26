@@ -4,10 +4,12 @@ This repo has been inspired by these:
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 - [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers).
+- [https://github.com/estraviz/data-science-roadmap]
 
 ### Why this?
 
-I want to track the progress of my studies in this broad area. I do not intend to list a huge number of resources or courses, just the ones that I have completed so far and the following ones that are on my mind for a next step (in a short/medium or even long term). Anyway, valuable resources that may be part of my plan in the future.
+I'm actually a back-end developer and manager in digital manufacturing.
+I want to track the progress of my studies in data scienec area. I do not intend to list a huge number of resources or courses, just the ones that I have completed so far and the following ones that are on my mind for a next step (in a medium/long long term). Anyway, valuable resources that may be part of my plan in the future.
 
 ### How are things classified here?
 
